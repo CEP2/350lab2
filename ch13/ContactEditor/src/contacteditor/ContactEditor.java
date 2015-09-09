@@ -9,16 +9,7 @@ import javax.swing.JFrame;
 import my.contacteditor.ContactEditorUI;
 
 /**
- * @Authors
- * Clifton Porter
- * Marco Antônio
  * 
- * Purpose
- * Lab 2 assignment, making GUI from Swift
- * 
- * Additional Notes
- * These authorship notes are added under the 
- * branch authorship to be merged in with master.
  * 
  */
 public class ContactEditor extends JFrame {

@@ -6,8 +6,12 @@
 package my.contacteditor;
 
 /**
- *
- * @author clifp
+ *	@Authors
+ *	Clifton Porter & Marco Antônio
+  *	@Purpose
+	COMP350 GUI Training.
+	COMP350 Git-Hub Training
+ * 
  */
 public class ContactEditorUI extends javax.swing.JFrame {
 
